@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+}
+
+.ContentCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poema{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.VanjaKristijanGushka{
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.footer{
+    text-align: center;
+}
